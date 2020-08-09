@@ -8,4 +8,4 @@ Upon further consideration, we are considering making it in Rust. Not sure which
 
 Check back soon for updates 👍
 
-
+WE MAKING IT IN RUST
